@@ -19,7 +19,7 @@ While he was standing like that, staring at space-time fluctuations in his mind,
 
 ![Mosaic](images/mosaic.jpg)
 
-He was too tired to do stuff like tracing his kitchen mosaic and testing it on the longest path, so he went to bed. Yet, the next morning he remembered his idea, took his old, squared math textbook and traced the mosaic onto one of the pages (he just filled the squares that are supposed to be black).
+He was too tired to do stuff like tracing his kitchen mosaic and testing it on the longest path, so he went to bed. Yet, when he woke up around noon, he remembered his idea, took his old, squared math textbook and traced the mosaic onto one of the pages (he just filled the squares that are supposed to be black).
 
 He looked at the page of his textbook and realised, instantly, that there are too many squares to process by hand. "It is great -- he thought to himself -- that my best friend is a programmer and he knows how to deal with the problems like that! Let me go to him and ask for help!"
 
