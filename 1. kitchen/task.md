@@ -27,7 +27,7 @@ Fortunately, *you* are Bill's coder-friend, yet a very kind one, so it is not a 
 
 ## Input
 
-There will be *N* test cases. For each test case you will be given the *height* (H) and the *width* (W) of a grid. $1 ≤ H, W ≤ 1'000$.
+There will be *N* test cases. For each test case you will be given the *height* (H) and the *width* (W) of a grid. **1 ≤ H, W ≤ 1'000**.
 
 Next *H* lines will contain the grid. *Dot* (.) character represents a white square, *Hash* (#) represents a black one. **Characters are not separated by spaces**.
 
@@ -89,9 +89,7 @@ Inside the *code* folder you will find a file named *out.txt* where you must wri
 
 ### Explanation
 
-In the **first test case**, 8 dots at positions
-$$(0, 0) (0, 1) (1, 0) (2, 0) (2, 1) (2, 2) (3, 0) (3, 2)$$
-form the longest single-coloured path.
+In the **first test case**, 8 dots at positions **(0, 0) (0, 1) (1, 0) (2, 0) (2, 1) (2, 2) (3, 0) (3, 2)** form the longest single-coloured path.
 
 In the **second** test case, the whole grid has white squares *only*, so the longest path is simply the number of squares in a grid.
 
