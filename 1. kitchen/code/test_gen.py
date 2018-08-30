@@ -2,7 +2,7 @@
 # This is a Test Gen. Use it to generate random test cases for the problem in this folder.
 # 
 # For this Test Gen you will have to specify two parameters: height and width of the grid. 
-# You decide how large should it be. However, you should probably remember that
+# You decide how large it should be. However, you should probably remember that
 # my test cases can only be 5'000 x 5'000 large at most. Just do not go crazy...
 #
 # Run this command to generate a test case:

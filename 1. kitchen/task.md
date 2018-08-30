@@ -47,7 +47,7 @@ If you are standing on some square *X*, only the next top, right, bottom, and le
 
 Inside the *code* folder you will find a file named *out.txt* where you must write your answers. First line of *out.txt* must contain a number of **milliseconds** it took your algorithm to compute the solution. Next *N* lines must contain **one** number each -- solution for the *i-th* of the *N* test cases you were given.
 
-**IMPORTANT**: You have to be careful with the way you time your code. You do not want to time the part of your code that asks for input, *escpecially* if you are provide input through the Terminal window instead of reading a file. Make sure to **only** time the part that process the input and produces the result.
+**IMPORTANT**: You have to be careful with the way you time your code. You do not want to time the part of your code that asks for input, *especially* if you provide input through the Terminal window instead of reading a file. Make sure to **only** time the part that processes the input and produces the result.
 
 ## Samples & Explanations
 
