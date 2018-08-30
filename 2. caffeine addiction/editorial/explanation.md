@@ -1,6 +1,6 @@
 # Explanation | #2
 
-This is a **very** easy problem, thus its explanation is going to be small. Here, 
+This is a **very** easy problem, thus its explanation is going to be small. Here,
 
 1. Bill can only consume cups in the exact order his coffee machine produced those.
 2. We want to find the **maximum** number of cups he can consume until his caffeine level passes 100 CU.
