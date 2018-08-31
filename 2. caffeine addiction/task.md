@@ -17,9 +17,9 @@ If you have read the [first problem](../1.%20kitchen/task.md), you already know 
 
 ![Question](images/question.png)
 
-To control his coffee level, Bill uses a special detector that measures it. Detector gives output in *Coffee Units* (CU). 
+To control his coffee level, Bill uses a special detector that measures it. Detector gives output in *Coffee Units* (CU).
 
-Unfortunately, Bill's coffee machine is broken and he cannot control the coffee strength yet he knows the strength of each cup he gets from it. Each morning coffee machine produces *N* coffee cups of different strength. The stronger the coffee the bigger the CU boost Bill gets after consuming it.
+Unfortunately, Bill's coffee machine is broken and he cannot control the coffee strength, yet he knows the strength of each cup he gets from it. Each morning coffee machine produces *N* coffee cups of different strength. The stronger the coffee the bigger the CU boost Bill gets after consuming it.
 
 Every day Bill wakes up at a level of *K* CU (this level never drops throughout the day -- it can only increase). Out of those *N* coffee cups produced by the machine he wants to drink as many as he can without getting an overdose. Bill gets overdose whenever his coffee level rises above **100 CU**. Bill can **only** drink cups in an order they are produced by the machine. Bill needs **your** help to get it right!
 
