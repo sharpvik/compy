@@ -1,2 +1,0 @@
-Verdict: Completely Correct
-1. True
